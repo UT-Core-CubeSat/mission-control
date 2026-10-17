@@ -13,7 +13,7 @@ This is where we keep the project schedule, team tasks, and shared notes. Design
 
 ## Hours and board checkout
 
-Use the separate **Weekly Hours Tracking 2026-2027.xlsx** and **Board Checkout.xlsx** workbooks. The migrated files have been delivered for upload; their shared links and editing access still need confirmation. Keep hours in the team sheets and board checkout in its own workbook.
+Use [Weekly Hours Tracking 2026-2027.xlsx](https://dixiestate.sharepoint.com/:x:/r/sites/CubeSat2/Shared%20Documents/General/Weekly%20Hours%20Tracking%202026-2027.xlsx?d=w472943879ac2484e9d1fbf3b7242c450&csf=1&web=1&e=rUY1V0) for hours and [Board Checkout.xlsx](https://dixiestate.sharepoint.com/:x:/r/sites/CubeSat2/Shared%20Documents/Electrical/Board%20Checkout.xlsx?d=w4e00e1fcca7143c5a54908e285969fb5&csf=1&web=1&e=JC0z4D) for board checkout. Keep hours in the team sheets and board checkout in its own workbook.
 
 ## Engineering files
 
