@@ -34,6 +34,10 @@ Enter Current editor, Checked out, Expected return, and Changes. On completion, 
 
 Keep shared team context in [Teams](teams.md), individual progress in issues, and durable interfaces, decisions, known problems, and setup links in [Bus knowledge](knowledge.md). Keep the files themselves in their engineering repository or Teams and link the current version.
 
+## Finding work
+
+Use Kind to show tasks or milestones in a team view. Open a milestone to see its supporting tasks, or use the Parent issue column. Use Team and Year filters on Schedule to narrow the timeline. To see all work, including completed items, use the repository Issues list and clear its open-only filter. Sort Target ascending for upcoming dates.
+
 ## Starting a new year
 
 1. Copy the new-year section in [Program years](program.md). Set the year, objective, target date, success criteria, and separate stretch objective. Mark the incoming year current and retain the outgoing year.
