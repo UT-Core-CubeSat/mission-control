@@ -56,7 +56,7 @@ Use this space for information the whole team or another team needs to know. Kee
 Use this space for decisions and information that affect the project as a whole. Link to the relevant task, milestone, GitHub file, or Teams documentation so people can find the details.
 
 
-[Project work](https://github.com/orgs/UT-Core-CubeSat/projects/4) — filter Team to Project Leaders or Everyone.
+[Project work](https://github.com/orgs/UT-Core-CubeSat/projects/4/views/12)
 
 ## Shared work
 
