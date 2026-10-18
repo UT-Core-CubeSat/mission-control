@@ -13,3 +13,7 @@ What needs to be complete?
 ## Supporting tasks
 
 Link or add the tasks that support this result.
+
+## Files and notes
+
+Link related documents, meeting notes, and decisions.
