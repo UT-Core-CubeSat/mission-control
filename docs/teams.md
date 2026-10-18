@@ -13,6 +13,18 @@ Use this space for information the whole team needs. Progress on an individual t
 
 [Team work](https://github.com/orgs/UT-Core-CubeSat/projects/4/views/2)
 
+## Controls
+
+**Lead:** Averie.
+**GitHub team:** @clamanski, @levn12, @rieperriton
+
+### Work
+Develop and validate the satellite control system, including controller and observer simulations, the Helmholtz cage, air bearing, and attitude estimation. Coordinate board interfaces with Electrical and firmware with Software.
+
+[Team work](https://github.com/orgs/UT-Core-CubeSat/projects/4/views/13) · [Controls repository](https://github.com/UT-Core-CubeSat/ut-core-controls)
+
+Use the shared Board and Schedule with a Controls team filter for other layouts. The Controls view also includes work assigned to Everyone.
+
 ## Software
 
 **Lead:** Sasha
