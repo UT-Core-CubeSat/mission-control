@@ -10,6 +10,8 @@ List problems the next person needs to know about. Explain what happens, what we
 
 ## Documents
 
+For a new document, add a heading, Type, creation date, and any related milestone links. Types are Draft, Update, Spec, Decision, Reference, Strategy, and Operations. Link the document back from the milestone’s Files and notes section.
+
 ### Goals & Strategy
 
 Type: Strategy. Created: 2026-09-23T05:41:01.339Z.
@@ -32,4 +34,4 @@ The source Date field was blank; the note body names September 22, 2026. No note
 
 ### Meeting template
 
-Use the meeting date as a heading. Record notes and link decisions or action items to their issues. The original meeting template contained a September 22, 2026 date and an empty notes section; choose the actual date for each new meeting.
+Use the meeting date as a heading. List attendees and related milestones, then record notes and link decisions or action items to their issues. Link the notes back from each related milestone’s Files and notes section. The original meeting template contained a September 22, 2026 date and an empty notes section; choose the actual date for each new meeting.
