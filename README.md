@@ -1,5 +1,6 @@
 # Mission Control
 
+
 This is where we keep the project schedule, team tasks, and shared notes. Design files and code stay in the engineering repositories and Teams. Link to them from the related task or board notes.
 
 **2026–2027 objective:** Telemetry from every satellite board transmitted by antenna and received at the ground station by **April 26, 2027**.
